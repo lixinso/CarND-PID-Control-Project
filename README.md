@@ -1,6 +1,8 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
+PID: Proportional-Ingegral-Derivative controller
+
 ---
 
 ## Dependencies
