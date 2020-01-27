@@ -1,7 +1,7 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
-PID: Proportional-Ingegral-Derivative controller
+PID: Proportional-Ingegral-Derivative controller. Those 3 components combine together to produce control signal
 
 ---
 
