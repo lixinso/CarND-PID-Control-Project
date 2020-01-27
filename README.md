@@ -3,6 +3,8 @@ Self-Driving Car Engineer Nanodegree Program
 
 PID: Proportional-Ingegral-Derivative controller. Those 3 components combine together to produce control signal
 
+Udacity provides a simulator to do the project and aim to write the PID controller to calculate the steering value to control the car using Cross Trrack Error (CTE) provided by simulator.
+
 ---
 
 ## Dependencies
